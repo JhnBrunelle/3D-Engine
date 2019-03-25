@@ -7,4 +7,4 @@ clean:
 	rm -rf a.out
 
 build:
-	g++ main.cpp ${graphics} ${scene} ${shapes} ${utils} -L/usr/x11R6/lib -lX11 -std=c++11
+	g++ main.cpp -w ${graphics} ${scene} ${shapes} ${utils} -L/usr/x11R6/lib -lX11 -std=c++11
