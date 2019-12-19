@@ -15,7 +15,7 @@ Each project contains a make file to build and run the project. X11 is required.
 * Features 3D camera and light objects
 * Creates Wiremeshes
 
-![First Step](https://raw.githubusercontent.com/JhnBrunelle/3D-Renderer/master/Bresenham's%20Algorithm/Screenshot.png?token=AE2VNU4G4I6WKEYI6OA4ZTC6ARIDI)
+![First Step](https://raw.githubusercontent.com/JhnBrunelle/3D-Renderer/master/3D%20mesher/shot1.png)
 
 
 ### 3. 3D Shader
